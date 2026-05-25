@@ -21,7 +21,7 @@ const StatsPage = () => {
         <div className="bg-gray-50 min-h-screen py-10">
             <div className="max-w-4xl mx-auto px-5">
                 <div className="mb-6">
-                    <h1 className="text-3xl font-bold text-gray-900">Friendship Analytics</h1>
+                    <h1 className="text-3xl font-bold text-gray-900 text-center">Friendship Analytics</h1>
                 </div>
 
                 <div className="bg-white rounded-xl border border-gray-200 shadow-sm p-6">

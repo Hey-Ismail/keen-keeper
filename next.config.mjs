@@ -2,6 +2,16 @@
 const nextConfig = {
   /* config options here */
   reactCompiler: true,
+  images: {
+    dangerouslyAllowSVG: true,
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "api.dicebear.com",
+        pathname: "/9.x/adventurer/svg",
+      },
+    ],
+  },
 };
 
 export default nextConfig;
