@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "name": "Rahim Ahmed",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Rahim",
+        "email": "rahim.ahmed@example.com",
+        "days_since_contact": 18,
+        "status": "overdue",
+        "tags": [
+            "university",
+            "close friend"
+        ],
+        "bio": "Met during university orientation. We often discuss technology and career goals.",
+        "goal": 14,
+        "next_due_date": "2026-06-05"
+    },
+    {
+        "id": 2,
+        "name": "Karim Uddin",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Karim",
+        "email": "karim.uddin@example.com",
+        "days_since_contact": 11,
+        "status": "almost due",
+        "tags": [
+            "college",
+            "gaming"
+        ],
+        "bio": "A passionate gamer and football fan who enjoys weekend hangouts.",
+        "goal": 14,
+        "next_due_date": "2026-05-27"
+    },
+    {
+        "id": 3,
+        "name": "Sadia Islam",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Sadia",
+        "email": "sadia.islam@example.com",
+        "days_since_contact": 5,
+        "status": "on-track",
+        "tags": [
+            "university",
+            "study partner"
+        ],
+        "bio": "Worked together on several university projects and academic competitions.",
+        "goal": 14,
+        "next_due_date": "2026-06-02"
+    },
+    {
+        "id": 4,
+        "name": "Nusrat Jahan",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Nusrat",
+        "email": "nusrat.jahan@example.com",
+        "days_since_contact": 20,
+        "status": "overdue",
+        "tags": [
+            "school",
+            "close friend"
+        ],
+        "bio": "Known since high school. Loves photography and traveling around Bangladesh.",
+        "goal": 14,
+        "next_due_date": "2026-05-20"
+    },
+    {
+        "id": 5,
+        "name": "Mahmud Hasan",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Mahmud",
+        "email": "mahmud.hasan@example.com",
+        "days_since_contact": 8,
+        "status": "on-track",
+        "tags": [
+            "work",
+            "mentor"
+        ],
+        "bio": "Former colleague who frequently shares career advice and industry insights.",
+        "goal": 14,
+        "next_due_date": "2026-05-30"
+    },
+    {
+        "id": 6,
+        "name": "Farzana Akter",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Farzana",
+        "email": "farzana.akter@example.com",
+        "days_since_contact": 13,
+        "status": "almost due",
+        "tags": [
+            "university",
+            "debate club"
+        ],
+        "bio": "Met through the debate club and still enjoys discussing current affairs.",
+        "goal": 14,
+        "next_due_date": "2026-05-25"
+    },
+    {
+        "id": 7,
+        "name": "Imran Hossain",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Imran",
+        "email": "imran.hossain@example.com",
+        "days_since_contact": 24,
+        "status": "overdue",
+        "tags": [
+            "football",
+            "neighbor"
+        ],
+        "bio": "Childhood neighbor and football teammate for many local tournaments.",
+        "goal": 14,
+        "next_due_date": "2026-05-18"
+    },
+    {
+        "id": 8,
+        "name": "Tasnia Rahman",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Tasnia",
+        "email": "tasnia.rahman@example.com",
+        "days_since_contact": 4,
+        "status": "on-track",
+        "tags": [
+            "book club",
+            "friend"
+        ],
+        "bio": "Enjoys reading novels and recommending interesting books every month.",
+        "goal": 14,
+        "next_due_date": "2026-06-03"
+    },
+    {
+        "id": 9,
+        "name": "Arif Chowdhury",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Arif",
+        "email": "arif.chowdhury@example.com",
+        "days_since_contact": 15,
+        "status": "overdue",
+        "tags": [
+            "startup",
+            "networking"
+        ],
+        "bio": "Entrepreneur friend who is building a small software startup.",
+        "goal": 14,
+        "next_due_date": "2026-05-23"
+    },
+    {
+        "id": 10,
+        "name": "Mariam Sultana",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Mariam",
+        "email": "mariam.sultana@example.com",
+        "days_since_contact": 10,
+        "status": "almost due",
+        "tags": [
+            "volunteering",
+            "community"
+        ],
+        "bio": "Met during a volunteer program and often participates in social initiatives.",
+        "goal": 14,
+        "next_due_date": "2026-05-28"
+    },
+    {
+        "id": 11,
+        "name": "Mehedi Hasan",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Mehedi",
+        "email": "mehedi.hasan@example.com",
+        "days_since_contact": 7,
+        "status": "on-track",
+        "tags": [
+            "photography",
+            "travel"
+        ],
+        "bio": "Met during a photography workshop. Loves capturing nature and exploring new places around Bangladesh.",
+        "goal": 14,
+        "next_due_date": "2026-05-31"
+    },
+    {
+        "id": 12,
+        "name": "Jannatul Ferdous",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Jannatul",
+        "email": "jannatul.ferdous@example.com",
+        "days_since_contact": 17,
+        "status": "overdue",
+        "tags": [
+            "school",
+            "art"
+        ],
+        "bio": "Talented artist who enjoys sketching landscapes and digital illustrations.",
+        "goal": 14,
+        "next_due_date": "2026-05-21"
+    },
+    {
+        "id": 13,
+        "name": "Nayeem Hasan",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Nayeem",
+        "email": "nayeem.hasan@example.com",
+        "days_since_contact": 12,
+        "status": "almost due",
+        "tags": [
+            "programming",
+            "friend"
+        ],
+        "bio": "Coding buddy who likes exploring new web technologies and side projects.",
+        "goal": 14,
+        "next_due_date": "2026-05-26"
+    },
+    {
+        "id": 14,
+        "name": "Ayesha Siddika",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Ayesha",
+        "email": "ayesha.siddika@example.com",
+        "days_since_contact": 3,
+        "status": "on-track",
+        "tags": [
+            "family friend",
+            "travel"
+        ],
+        "bio": "Family friend who enjoys exploring historical places across the country.",
+        "goal": 14,
+        "next_due_date": "2026-06-04"
+    },
+    {
+        "id": 15,
+        "name": "Tanvir Mahmud",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Tanvir",
+        "email": "tanvir.mahmud@example.com",
+        "days_since_contact": 22,
+        "status": "overdue",
+        "tags": [
+            "university",
+            "roommate"
+        ],
+        "bio": "Former roommate who now works in software development and loves cycling.",
+        "goal": 14,
+        "next_due_date": "2026-05-19"
+    },
+    {
+        "id": 16,
+        "name": "Rifat Hossain",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Rifat",
+        "email": "rifat.hossain@example.com",
+        "days_since_contact": 9,
+        "status": "on-track",
+        "tags": [
+            "university",
+            "programming"
+        ],
+        "bio": "Met during a web development bootcamp. Regularly collaborates on coding projects and hackathons.",
+        "goal": 14,
+        "next_due_date": "2026-06-04"
+    },
+    {
+        "id": 17,
+        "name": "Tahmina Akter",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Tahmina",
+        "email": "tahmina.akter@example.com",
+        "days_since_contact": 16,
+        "status": "overdue",
+        "tags": [
+            "school",
+            "close friend"
+        ],
+        "bio": "Known since high school. Enjoys painting and participating in cultural events.",
+        "goal": 14,
+        "next_due_date": "2026-05-23"
+    },
+    {
+        "id": 18,
+        "name": "Shahriar Kabir",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Shahriar",
+        "email": "shahriar.kabir@example.com",
+        "days_since_contact": 12,
+        "status": "almost due",
+        "tags": [
+            "football",
+            "neighbor"
+        ],
+        "bio": "Childhood neighbor who still organizes football matches in the local community.",
+        "goal": 14,
+        "next_due_date": "2026-05-27"
+    },
+    {
+        "id": 19,
+        "name": "Mim Rahman",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Mim",
+        "email": "mim.rahman@example.com",
+        "days_since_contact": 6,
+        "status": "on-track",
+        "tags": [
+            "book club",
+            "friend"
+        ],
+        "bio": "Met through a local book club and often exchanges recommendations on novels and self-development books.",
+        "goal": 14,
+        "next_due_date": "2026-06-05"
+    },
+    {
+        "id": 20,
+        "name": "Fahim Ahmed",
+        "picture": "https://api.dicebear.com/9.x/adventurer/svg?seed=Fahim",
+        "email": "fahim.ahmed@example.com",
+        "days_since_contact": 21,
+        "status": "overdue",
+        "tags": [
+            "college",
+            "travel"
+        ],
+        "bio": "Travel companion from college days who enjoys exploring historical places around Bangladesh.",
+        "goal": 14,
+        "next_due_date": "2026-05-18"
+    }
+]
