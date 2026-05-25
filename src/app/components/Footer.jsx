@@ -59,8 +59,8 @@ const Footer = () => {
             </div>
 
             <div className="border-t border-emerald-800">
-                <div className="max-w-6xl mx-auto px-5 py-4 flex flex-col gap-3 text-xs text-emerald-100 sm:flex-row sm:items-center sm:justify-between">
-                    <span>© 2026 KeenKeeper. All rights reserved.</span>
+                <div className="max-w-6xl mx-auto px-5 py-4 flex flex-col gap-3 text-xs text-emerald-100 sm:flex-row sm:items-center sm:justify-between ">
+                    <span className="text-center sm:text-left">© 2026 KeenKeeper. All rights reserved.</span>
                     <div className="flex items-center justify-center gap-6">
                         <a href="#" className="hover:text-white">Privacy Policy</a>
                         <a href="#" className="hover:text-white">Terms of Service</a>
