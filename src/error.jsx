@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const ErrorPage = () => {
     return (
-        <div className="bg-gradient-to-br from-emerald-50 via-white to-teal-50 min-h-screen py-16">
+        <div className="bg-linear-to-br from-emerald-50 via-white to-teal-50 min-h-screen py-16">
             <div className="max-w-3xl mx-auto px-5">
                 <div className="bg-white/90 rounded-2xl border border-gray-200 shadow-sm p-10 text-center">
                     <div className="inline-flex items-center justify-center h-14 w-14 rounded-full bg-emerald-100 text-emerald-700 text-lg font-semibold">
